@@ -10,6 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TFS and GIT");
         }
     }
 }
